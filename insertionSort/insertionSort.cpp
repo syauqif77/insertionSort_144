@@ -18,6 +18,17 @@ void input()
         if (n <= 20)
         {   // membuat kondisi n tidak lebih dari 20
             break;
+  
+        }
+        else
+        {
+            cout << "\narray yang andaa masukkan maksimal 20 element. \n";  // menampilkan
+        }
+    }
+    cout << endl;
+    cout << "====================" << endl;
+    cout << "masukkan element array" << endl;
+    cout << "====================" << endl;
 
 int main()
 
